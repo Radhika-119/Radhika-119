@@ -1,3 +1,4 @@
+![logo](https://github.com/Radhika-119/Radhika-119/blob/main/Blue%20and%20White%20Futuristic%20Cyber%20Security%20Presentation_20250213_033638_0000%20(1)_page-0001.jpg)
 <h1 align="center">Hi 👋, I'm Radhika Sanjay Satone</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align = "right"src="https://miro.medium.com/max/1000/1*8lYmtyFVLAsQ0VbWZRKnRw.gif" alt="coding">
